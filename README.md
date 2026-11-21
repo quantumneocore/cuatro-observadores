@@ -4,11 +4,13 @@
 
 [Leer el libro completo en PDF](Cuatro_observadores_y_la_geometria_del_espacio.pdf)
 
-Cuatro estaciones situadas en los vértices de un tetraedro regular de un metro de lado registran seis separaciones iguales. ¿Qué medición permitiría averiguar si la señal puede atravesar el volumen, recorrer las caras o viajar únicamente por las aristas?
+*Qué revelan las distancias sobre la dimensión y los caminos de una señal*
 
-Coloquemos dos sondas en los puntos medios de dos aristas opuestas. Si la señal toma el camino más corto disponible, los tres modelos predicen aproximadamente **0,707 m por el volumen**, **1 m por las caras** y **2 m por las aristas**. Las seis lecturas iniciales coincidían en los tres casos. Esta nueva medida permite distinguirlos en condiciones ideales.
+Cuatro estaciones registran la misma separación entre cada pareja. Cuatro modelos reproducen las seis lecturas. ¿Dónde situar dos sondas para que cada modelo prediga una distancia diferente?
 
-El libro desarrolla las demostraciones, extiende la comparación a una superficie esférica y explica cómo interpretar una lectura con incertidumbre. Incluye ejemplos de acústica, transporte y circuitos, cinco problemas resueltos y bibliografía comentada.
+La tabla de la página 7 da la respuesta. Si la separación entre estaciones es de un metro, la distancia entre los puntos medios de dos aristas opuestas es aproximadamente **0,7071 m** a través del volumen del tetraedro, **1 m** sobre sus caras y **2 m** a lo largo de sus aristas. En la esfera ajustada a las mismas seis lecturas, los puntos medios de los dos arcos correspondientes distan **1,6443 m**. Una vez localizados esos puntos, una sola lectura distingue los cuatro modelos en condiciones ideales. Medir entre puntos medios de aristas contiguas permite comprobar otra predicción del modelo elegido.
+
+La monografía desarrolla los cálculos y muestra cómo interpretar medidas con incertidumbre. Incluye cinco problemas resueltos y bibliografía comentada.
 
 ## Por dónde empezar
 
